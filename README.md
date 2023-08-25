@@ -1,4 +1,4 @@
 # markdown-to-html
-## Personal Presentation Barbier Mathias HTML
+## Personal Presentation Barbier Mathias
 
-*Code html in index.html*
+*You can check the code html in index.html*
