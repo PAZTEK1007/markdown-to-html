@@ -1,4 +1,4 @@
-# markdown-to-html
+# Markdown To Html
 
 Ce référentiel contient un projet de conversion de fichiers Markdown en HTML.
 
